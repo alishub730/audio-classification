@@ -4,7 +4,7 @@ Classification of the heart sound in its few classes.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://audio-classification.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://audio-classification-app.streamlit.app/)
 
 ## GitHub Codespaces
 
